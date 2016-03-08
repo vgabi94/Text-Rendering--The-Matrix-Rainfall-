@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+d:\_cursuri\_anul_3_2015-2016\egc\tema4\tema4_egc\tema4_egc\include\glg\Camera.hpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Font.cpp
+d:\_cursuri\_anul_3_2015-2016\egc\tema4\tema4_egc\tema4_egc\include\glg\Font.hpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Game.cpp
+d:\_cursuri\_anul_3_2015-2016\egc\tema4\tema4_egc\tema4_egc\include\glg\Game.hpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  GameObject.cpp
+d:\_cursuri\_anul_3_2015-2016\egc\tema4\tema4_egc\tema4_egc\include\glg\Mesh.hpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Mesh.cpp
+d:\_cursuri\_anul_3_2015-2016\egc\tema4\tema4_egc\tema4_egc\include\glg\Mesh.hpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Shader.cpp
+d:\_cursuri\_anul_3_2015-2016\egc\tema4\tema4_egc\tema4_egc\include\glg\Shader.hpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  Texture.cpp
+d:\_cursuri\_anul_3_2015-2016\egc\tema4\tema4_egc\tema4_egc\include\glg\Texture.hpp(5): fatal error C1083: Cannot open include file: 'GL\glew.h': No such file or directory
+  main.cpp
+main.cpp(1): fatal error C1083: Cannot open include file: 'glg\Game.hpp': No such file or directory
