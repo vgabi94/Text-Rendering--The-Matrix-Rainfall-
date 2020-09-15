@@ -16,3 +16,5 @@ Press **ESC** to enter the menu. From there you can choose:
  2. `Input mode`: the text you type on the keyboard will be displayed on the panel.
  3. `Enter the Matrix`: starts The Matrix Rainfall effect (Press **ESC** to go back).
  4. `Exit`: exits the application.
+ 
+ [Click here to see a demo](https://youtu.be/mk_IhJwqYzk)
